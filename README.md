@@ -4,7 +4,7 @@ I'm a participant at the Summer 2025 Data Storytelling Guided Challenge! I will 
 
 # My progress
 - Checkpoint #1: ✅
-- Checkpoint #2: IP
+- Checkpoint #2: ✅
 - Checkpoint #3: TBD
 - Checkpoint #5: TBD
 - Checkpoint #5: TBD
